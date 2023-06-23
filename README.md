@@ -1,1 +1,1 @@
-covid cases prediction using deeplearning model
+projects using deep learning model techniques
